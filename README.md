@@ -101,7 +101,6 @@ Steve Jobs
 - 🧽 **[Demark](https://github.com/steipete/demark)** - Mark My Words, HTML to Markdown!
 - 🛏️ **[eightctl](https://github.com/steipete/eightctl)** - Control your sleep, from the terminal
 - 💬 **[imsg](https://github.com/steipete/imsg)** - Send, read, stream iMessage & SMS
-- 🍺 **[homebrew-tap](https://github.com/steipete/homebrew-tap)** - Brew tap for shipping my CLI tools fast
 ### Legacy Work
 - 🔄 **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
 - 🧩 **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
